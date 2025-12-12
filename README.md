@@ -6,3 +6,6 @@ My favorit Ice cream flavors:
 * vanila
 * peach
   
+  other flavors to consider :
+  * salted caramel
+  * nuts 
